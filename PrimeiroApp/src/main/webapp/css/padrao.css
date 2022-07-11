@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+
+
+#btnReset {
+	background-color: yellow;color:white; font-family:arial;
+}
+
+#btnSubmit {
+	background-color: green;color:white; font-family:arial;
+}
+h1 {
+  color: navy;font-family:arial;
+}
+
+divPrincipal{
+  width: 100%;  border: solid 1px blue;align-items: center;
+}
+
+input,textarea,select{
+	border: solid 1px navy;font-family:arial;width: 100%;
+}
+td{
+	color: navy;font-family:arial;text-align: right;
+}
+table {
+	margin: 0 auto;
+}
